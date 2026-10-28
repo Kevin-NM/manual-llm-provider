@@ -1,6 +1,8 @@
-# Manual LLM Provider
+# manual-llm-provider: 解決沒錢買API的測試方式
 
 讓程式代理在既有軟體中加入**可續作、可追溯的人工聊天模型生成流程**。
+
+把原本需要呼叫模型 API 的開發測試，改成複製 Prompt 到既有 AI 聊天介面、再人工貼回結果，降低測試時的 API 支出。
 
 [English](README.md) · [Skill 指引](skills/manual-llm-provider/SKILL.md) · [MIT 授權](LICENSE)
 
