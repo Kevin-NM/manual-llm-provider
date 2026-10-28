@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manual LLM Provider"
+  short_description: "Add durable copy-paste LLM workflows to existing apps"
+  default_prompt: "Use $manual-llm-provider to add a resumable manual LLM option to this existing app while preserving its current prompts, validation, and approval workflow."
